@@ -8,6 +8,10 @@ print("thêm test case")
 print("thêm test case")
 
 print("thêm test case")
+print("thêm test case")
+print("thêm test case")
+print("thêm test case")
+print("thêm test case")
 
 
 
